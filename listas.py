@@ -3,3 +3,4 @@ pares= []
 for i in range(len(lista)):
     if lista[i]%2 == 0:
         pares.append(lista[i])
+    print(pares)
